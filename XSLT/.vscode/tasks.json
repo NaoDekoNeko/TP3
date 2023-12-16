@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "xslt-js",
+            "label": "XSLT",
+            "nodeModulesFolder": "${workspaceFolder}/node_modules",
+            "xsltFile": "${workspaceFolder}/src/${input:xsltFile}.xsl",
+            "xmlSource": "${workspaceFolder}/data/${input:xmlSource}.xml",
+            "resultPath": "${workspaceFolder}/xsl-out/${input:xsltOutput}.html",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$saxon-xslt-js"
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "xsltFile",
+            "type": "promptString",
+            "description": "Select the XSLT file"
+        },
+        {
+            "id": "xmlSource",
+            "type": "promptString",
+            "description": "Select the XML source file"
+        },
+        {
+            "id": "xsltOutput",
+            "type": "promptString",
+            "description": "Select the output file name"
+        }
+    ]
+}

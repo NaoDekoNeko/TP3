@@ -1,0 +1,10 @@
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\bin\Debug\PC4P4.exe.config
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\bin\Debug\PC4P4.exe
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\bin\Debug\PC4P4.pdb
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.csproj.AssemblyReference.cache
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.Form1.resources
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.Properties.Resources.resources
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.csproj.GenerateResource.cache
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.csproj.CoreCompileInputs.cache
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.exe
+C:\Users\adfat\OneDrive\Desktop\Tópicos III\PC4P4\PC4P4\obj\Debug\PC4P4.pdb
